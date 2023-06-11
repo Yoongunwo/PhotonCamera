@@ -1,3 +1,8 @@
+/*
+테스트 환경 : IntelliJ
+기기명 : 갤럭시 s22
+Android API 33 platform
+*/
 package com.particlesdevs.photoncamera.gallery.adapters;
 
 import android.app.Activity;
